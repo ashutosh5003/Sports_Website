@@ -1,0 +1,114 @@
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(226, 226, 226);
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 90px;
+}
+
+.container h3{
+    font-size: 32px;
+    margin-bottom: 20px;
+    position: relative;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 60px;
+    padding-top: 30px;
+    border-bottom: 2px solid black;
+    display: inline-block;
+
+}
+
+.first{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    margin-left: 90px;
+}
+.second{
+    display: flex;
+    margin-left: 90px;
+}
+.A{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px;
+    margin-left: 70px;
+}
+.B{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px;
+}
+.C{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px;
+}
+.D{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px;
+}
+.E{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px;
+    
+}
+.F{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px;
+    margin-right: 40px;
+
+}
+.Aa
+{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px; 
+    margin-left: 70px;
+}
+.Bb
+{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px; 
+}
+.Cc
+{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px; 
+}
+.Dd
+{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px; 
+}
+.Ee
+{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px; 
+}
+.Ff
+{
+    height: 200px;
+    width: 180px;
+    background-color: #FFFFFF;
+    margin: 10px; 
+}

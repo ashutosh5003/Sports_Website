@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(209, 205, 205);
+}
+.one{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin: 13px;
+}
+.two{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(236, 149, 17);
+    margin: 13px;
+}
+.three{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(109, 86, 192);
+    margin: 13px;
+}
+.four{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(226, 195, 53);
+    margin: 13px;
+}
+.five{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(5, 81, 223);
+    margin: 13px;
+}
+.six{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(196, 19, 196);
+    margin: 13px;
+}
+.raa{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: hotpink;
+}
+.second{
+    text-align: center;
+}
